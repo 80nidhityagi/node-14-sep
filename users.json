@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "first_name": "Claresta",
+        "last_name": "Beausang",
+        "email": "cbeausang0@cargocollective.com",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 2,
+        "first_name": "Claus",
+        "last_name": "Jillett",
+        "email": "cjillett1@yale.edu",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Godfree",
+        "last_name": "Rottenbury",
+        "email": "grottenbury2@sun.com",
+        "gender": "Bigender"
+    },
+    {
+        "id": 4,
+        "first_name": "Leanor",
+        "last_name": "Antonat",
+        "email": "lantonat3@cmu.edu",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Jerome",
+        "last_name": "Romayn",
+        "email": "jromayn4@bloglines.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Bertram",
+        "last_name": "Pettyfer",
+        "email": "bpettyfer5@ft.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Fields",
+        "last_name": "Pavett",
+        "email": "fpavett6@about.me",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Udell",
+        "last_name": "Thickins",
+        "email": "uthickins7@woothemes.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Marcus",
+        "last_name": "Gamlyn",
+        "email": "mgamlyn8@multiply.com",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Isadore",
+        "last_name": "Baldacchi",
+        "email": "ibaldacchi9@chicagotribune.com",
+        "gender": "Male"
+    },
+    {
+        "firstname": "gagan",
+        "lastname": "tyagi",
+        "id": 11,
+        "email": "gagantyagi",
+        "gender": "male"
+    }
+]
